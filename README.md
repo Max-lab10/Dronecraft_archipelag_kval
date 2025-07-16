@@ -9,4 +9,4 @@
 
 Ссылка на код: https://github.com/Max-lab10/Dronecraft_archipelag_kval/blob/main/poletel.py
 
-Ссылка на техническое описание: https://github.com/Max-lab10/Dronecraft_archipelag_kval/blob/main/Архитектура%20кода.docx
+Ссылка на техническое описание: https://github.com/Max-lab10/Dronecraft_archipelag_kval/blob/main/Техническое%20описание
